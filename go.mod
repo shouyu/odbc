@@ -1,4 +1,4 @@
-module github.com/alexbrainman/odbc
+module github.com/shouyu/odbc
 
 go 1.14
 
